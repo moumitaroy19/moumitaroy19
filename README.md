@@ -3,10 +3,9 @@
 🏥 **Medical AI Engineer** — building end-to-end clinical AI systems
 
 ## 🚀 About Me
-- 🔬 Specializing in **Medical AI** — Computer Vision, LLM Fine-tuning, Clinical Agents
-- 🌏 Based in Bangladesh · Open to **Remote Opportunities Globally**
-- 🎯 Building toward **NVIDIA-ecosystem** AI engineering roles
-- 📚 Currently completing **AI Engineering Bootcamp** (Ostad)
+🔬 Specializing in Medical AI — Computer Vision, LLM Fine-tuning, Clinical Agents
+🌏 Based in Bangladesh · Open to Remote Opportunities Globally
+🚀 Building end-to-end clinical AI systems — from model training to deployment
 
 ## 🏗️ Featured Projects
 
